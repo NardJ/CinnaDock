@@ -6,7 +6,7 @@ It is written in Python/GTK 3 and integrates directly with Cinnamon for window
 tracking, window previews, activation, workspaces, running applications and
 visibility behavior.
 
-Current release: **55.0**
+Current release: **57.0**
 
 ---
 
@@ -109,7 +109,7 @@ cinnadock --version
 Expected output:
 
 ```text
-CinnaDock 56.0
+CinnaDock 57.0
 ```
 
 ## Commands
