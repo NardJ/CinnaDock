@@ -10,6 +10,30 @@ Current release: **55.0**
 
 ---
 
+## Screenshots
+
+### Standard dock
+
+![CinnaDock standard dock](docs/screenshots/dock-standard.png)
+
+### Symbolic / monochrome icon mode
+
+![CinnaDock symbolic icon mode](docs/screenshots/dock-symbolic.png)
+
+### About window with runtime and profiler information
+
+![CinnaDock about window](docs/screenshots/about-profiler.png)
+
+### Settings — Appearance
+
+![CinnaDock appearance settings](docs/screenshots/settings-appearance.png)
+
+### Settings — Behavior
+
+![CinnaDock behavior settings](docs/screenshots/settings-behavior.png)
+
+---
+
 ## Highlights
 
 - Smooth macOS-style icon magnification
