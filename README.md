@@ -109,7 +109,7 @@ cinnadock --version
 Expected output:
 
 ```text
-CinnaDock 55.0
+CinnaDock 56.0
 ```
 
 ## Commands
